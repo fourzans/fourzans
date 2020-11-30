@@ -1,4 +1,4 @@
-### Hi there 👋 let's keep in touch
+### Hi there 👋 
 
 <p align="center">
 	<a href="https://github.com/fourzans"><img src="https://img.shields.io/github/followers/fourzans.svg?label=GitHub&style=social" alt="GitHub"></a>
