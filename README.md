@@ -5,6 +5,7 @@
 My name is Mariano Nicolas Fourzans. I'm in love with software development since early childhood which led to a diploma in Computer Science. I've been working in the industry for several years. Besides code, I love learning new (human) languages, meeting new cultures, and playing games. 
 
 <br/>
+<br/>
 
 <p align="center">
 
