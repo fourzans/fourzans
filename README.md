@@ -5,10 +5,17 @@
 My name is Mariano Nicolas Fourzans. I'm in love with software development since early childhood which led to a diploma in Computer Science. I've been working in the industry for several years. Besides code, I love learning new (human) languages, meeting new cultures, and playing games. 
 
 <br/>
+
+## Find me around the web 🌎: 
+<p align="center">
+	<a href="https://github.com/fourzans"><img src="https://img.shields.io/github/followers/fourzans.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/cuatrozans"><img src="https://img.shields.io/twitter/follow/cuatrozans?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/fourzans"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
 <br/>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/php%20-%2320232a.svg?&color=white&style=for-the-badge&logo=php&logoColor=%w%22%20height=%2225%22" height="25"/>
@@ -25,12 +32,4 @@ My name is Mariano Nicolas Fourzans. I'm in love with software development since
 <img src="https://img.shields.io/badge/kubernetes%20-%2320232a.svg?&color=black&style=for-the-badge&logo=kubernetes&logoColor=%FF3E00" height="25"/>
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-</p>
-
-
-## Find me around the web 🌎: 
-<p align="center">
-	<a href="https://github.com/fourzans"><img src="https://img.shields.io/github/followers/fourzans.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/cuatrozans"><img src="https://img.shields.io/twitter/follow/cuatrozans?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/fourzans"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
