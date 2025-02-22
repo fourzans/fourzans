@@ -10,7 +10,6 @@ My name is Mariano Nicolas Fourzans. I'm in love with software development since
 ## Find me around the web 🌎: 
 <p align="center">
 	<a href="https://github.com/fourzans"><img src="https://img.shields.io/github/followers/fourzans.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/cuatrozans"><img src="https://img.shields.io/twitter/follow/cuatrozans?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/fourzans"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
